@@ -190,7 +190,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 
 ### 👨‍💻 Yazar
 
-Semih - [E-posta Adresiniz]
+Semih - [semihkulekcioglu@gmail.com]
 
 ---
 
@@ -380,7 +380,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 👨‍💻 Author
 
-Semih - [Your Email]
+Semih - [semihkulekcioglu@gmail.com]
 
 ---
 
