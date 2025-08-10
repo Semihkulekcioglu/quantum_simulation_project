@@ -55,7 +55,7 @@ pip install -r requirements.txt
 1. **Depoyu klonlayın:**
    ```bash
    git clone <your-repo-url>
-   cd quantum-simulation-project
+   cd quantum_simulation_project
    ```
 
 2. **Bağımlılıkları yükleyin:**
@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 3. **Projeyi çalıştırın:**
    ```bash
-   python 01_klasik_vs_kuantum.py
+   python Quantum_simulation_project.py
    ```
 
 4. **Dilinizi seçin:**
@@ -157,7 +157,7 @@ Bu projeyi tamamladıktan sonra şunları anlayacaksınız:
 ### 🔍 Kod Yapısı
 
 ```
-├── 01_klasik_vs_kuantum.py    # Ana proje dosyası
+├── Quantum_simulation_project.py    # Ana proje dosyası
 ├── requirements.txt            # Python bağımlılıkları
 └── README.md                  # Proje dokümantasyonu
 ```
@@ -255,7 +255,7 @@ pip install -r requirements.txt
 
 3. **Run the project:**
    ```bash
-   python 01_klasik_vs_kuantum.py
+   python Quantum_simulation_project.py
    ```
 
 4. **Choose your language:**
@@ -347,7 +347,7 @@ After completing this project, you will understand:
 ### 🔍 Code Structure
 
 ```
-├── 01_klasik_vs_kuantum.py    # Main project file
+├── Quantum_simulation_project.py    # Main project file
 ├── requirements.txt            # Python dependencies
 └── README.md                  # Project documentation
 ```
